@@ -1,0 +1,26 @@
+body{
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  text-align: center;
+} 
+
+.cat1 {
+  text-align: center;
+}
+
+.cat2 {
+  text-align: center;
+}
+
+.cat3 {
+  text-align: center;
+}
+
+.cat4 {
+  text-align: center;
+}
